@@ -6,6 +6,6 @@ In this YouTube tutorial, I'm going to teach you how to use modern CSS to create
 
 We'll be using CSS Variables, CSS Grid System, CSS Flexbox, Media queries for our responsive design.
 
-## [Watch Video On YouTube]()
+## [Watch Video On YouTube](https://youtu.be/BOF79TAIkYQ)
 
 ![](thumbnail.jpg)
