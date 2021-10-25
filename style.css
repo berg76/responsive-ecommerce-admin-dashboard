@@ -516,6 +516,8 @@ main .recent-orders a {
   display: flex;
   align-items: center;
   justify-content: center;
+  background: var(--color-primary);
+  color: white;
 }
 
 .right .sales-analytics .add-product:hover {
